@@ -152,16 +152,22 @@ h3 {
   background: rgba(88, 166, 255, 0.12);
 }
 
+.icon-link img,
 .icon-link svg {
   width: 18px;
   height: 18px;
+  display: block;
+}
+
+.icon-link svg {
   fill: currentColor;
 }
 
 .brand-link img {
-  height: 15px;
-  width: auto;
-  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  object-fit: cover;
 }
 
 .flow {

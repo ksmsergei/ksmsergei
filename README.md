@@ -7,4 +7,4 @@ I am Sergey Kolevatov, a Junior Software Engineer at Netcracker Technology.
 
 🌐 Full page: [ksmsergei.github.io/ksmsergei](https://ksmsergei.github.io/ksmsergei/)
 
-[GitHub](https://github.com/ksmsergei) · [Telegram](https://t.me/ksmsergei)
+[GitHub](https://github.com/ksmsergei) · [Telegram](https://t.me/ksmsergei) · [Steam](https://steamcommunity.com/id/ksmsergei/)
