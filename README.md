@@ -1,6 +1,6 @@
 # 👋 Hey
 
-I am Sergey Kolevatov, a Junior Software Engineer at Netcracker Technology.  
+I am Sergey Kolevatov, a Software Engineer at Netcracker Technology.  
 
 💻 Here I keep hobby projects, tools, and experiments.  
 🔧 Mostly into microcontrollers, automation, and some game-related ideas.
